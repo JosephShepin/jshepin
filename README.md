@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Go 
 - 💬 Ask me about anything you so desire
 - 📫 How to reach me: jshepin@gmail.com
-- ⚡ Fun fact: I fell off a high-speed chairlift once
+- ⚡ Fun fact: I once fell off a high-speed chairlift
