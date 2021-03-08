@@ -4,6 +4,5 @@
 
 - 🔭 I’m currently working on Learning more about Google Cloud
 - 🌱 I’m currently learning Go 
-- 💬 Ask me about anything you so desire
 - 📫 How to reach me: jshepin@gmail.com
 - ⚡ Fun fact: I once fell off a high-speed chairlift
